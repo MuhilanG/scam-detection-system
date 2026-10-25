@@ -1,0 +1,40 @@
+# Streamlit configuration for the Scam Message Detector
+# Theme tokens live here (never inject CSS from app code).
+
+[theme]
+base = "light"
+primaryColor = "#4338CA"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F4F4F9"
+textColor = "#17171C"
+borderColor = "#E2E2EA"
+linkColor = "#4338CA"
+baseRadius = "10px"
+buttonRadius = "8px"
+showWidgetBorder = true
+showSidebarBorder = true
+font = "sans-serif"
+codeFont = "monospace"
+
+redColor = "#C62828"
+redBackgroundColor = "#FDECEC"
+redTextColor = "#8E1B1B"
+greenColor = "#1B7F3B"
+greenBackgroundColor = "#E8F6ED"
+greenTextColor = "#0E5727"
+orangeColor = "#B26A00"
+orangeBackgroundColor = "#FFF3E0"
+blueColor = "#2563EB"
+blueBackgroundColor = "#E8EEFD"
+grayColor = "#5B6470"
+
+[theme.sidebar]
+backgroundColor = "#F7F7FC"
+secondaryBackgroundColor = "#EEEEF6"
+borderColor = "#E2E2EA"
+
+[server]
+headless = false
+
+[browser]
+gatherUsageStats = false

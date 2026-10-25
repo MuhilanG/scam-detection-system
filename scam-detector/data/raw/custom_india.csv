@@ -1,0 +1,203 @@
+message,label,category
+"URGENT: Your Rs.4,999 refund from Flipkart is pending. Claim now: flipkart-refund.in/claim Your UPI will be blocked in 24 hrs",1,upi_refund
+"Your Paytm payment of Rs.2,399 failed but money debited. Get refund here: paytm-refund.xyz/upi Do it fast or amount lost forever",1,upi_refund
+Amazon order cancelled due to KYC mismatch. Refund of Rs.899 waiting. Update UPI KYC: amzn-kyc.top/update Limited time offer,1,upi_refund
+"Rs.12,500 refund from SBI Cards is on hold. Verify your UPI to receive: sbi-refund.click/verify Act within 2 hours",1,upi_refund
+"Your electricity bill payment of Rs.1,842 was successful but merchant did not receive. Refund: besc-refund.site/return Verify UPI PIN urgently",1,upi_refund
+"Transaction declined: Rs.5,499 debited from your account for an unpaid merchant order. Reverse it: upi-reversal.icu/undo Do not ignore",1,upi_refund
+"Dear customer, Rs.3,200 stuck in escrow because your UPI ID is unverified. Release funds: upi-escrow.xyz/free Failing this, money will be seized",1,upi_refund
+Netflix payment Rs.649 failed twice. Your card will be charged again today unless you re-sync UPI: netflix-upi.top/sync Urgent action needed,1,upi_refund
+"Hi, this is PhonePe support. We detected a duplicate debit of Rs.1,999. Claim refund: phonepe-dup.icu/refund Verify with OTP to proceed",1,upi_refund
+"Your IRCTC refund of Rs.1,275 is ready. Complete UPI e-mandate to get it: irctc-refund.click/emandate Offer expires tonight",1,upi_refund
+Gas cylinder subsidy Rs.300 credited but not reflecting in UPI app. Reconcile now: lpg-subsidy.xyz/reconcile Your connection may be cut,1,upi_refund
+"Failed to transfer Rs.9,999 to merchant. Money will auto-reverse in 30 mins unless you confirm UPI PIN here: auto-reverse.top/confirm",1,upi_refund
+Shopkeeper says payment pending Rs.749. Pay instantly via UPI or your delivery will be cancelled: delhivery-pay.click/pay-now,1,upi_refund
+"Your gold loan EMI of Rs.4,150 bounced. Pay via this UPI link to avoid penalty: muthoot-emis.xyz/pay Late fee Rs.500/day applies",1,upi_refund
+"Refund of Rs.2,099 from Zomato failed due to invalid VPA. Re-enter UPI details: zomato-vpa.click/revalidate Your account is flagged",1,upi_refund
+"Dear SBI Customer, your KYC has expired. Update immediately: sbi-kyc-update.xyz/kyc Failing to do so, your account will be frozen within 24 hours",1,kyc_otp
+Your Aadhaar e-KYC is incomplete. Complete it now to keep your bank account active: axis-kyc.click/aadhaar Do not share OTP with anyone except this verification,1,kyc_otp
+HDFC Bank: Your KYC document submission is pending. Submit PAN and Aadhaar: hdfc-kyc-form.top/kycform Account will be deactivated today,1,kyc_otp
+OTP for UPI setup: 482913. Share this OTP with our agent to complete your KYC verification. Valid for 10 minutes only,1,kyc_otp
+Your Jio number will be deactivated as e-KYC is pending. Verify now with OTP: jio-kyc.icu/verify Send the OTP you just received to confirm,1,kyc_otp
+Bank of Baroda: KYC update required. Use this secure link and enter OTP 739201 to re-activate internet banking: bob-kyc.xyz/recheck,1,kyc_otp
+Your Paytm Payments Bank KYC is not updated. Last chance: paytm-kyc.click/now Share OTP 552109 with care@support to complete process,1,kyc_otp
+"ICICI Bank alert: We noticed a login from new device. Confirm it's you. OTP 618274. If not you, immediately verify: icici-verify.top/device",1,kyc_otp
+Aadhaar linking failed. Your DBT subsidy will stop. Re-link with OTP 394857: aadhaar-dbt.xyz/link Support: 98xxxxxxx12 (agent will guide),1,kyc_otp
+Your PAN-Aadhaar linkage is incomplete. Complete e-KYC with OTP 847562: pan-aadhaar-kyc.click/link Account blocked if not done by 6 PM,1,kyc_otp
+Kotak 811: Your video KYC pending. Complete via this link and share OTP with executive: kotak-vkyc.top/vkc Your account has limited access,1,kyc_otp
+"Voter ID linking done? If not, complete with OTP 293847 here: ecinkyc-voter.xyz/link Subsidy and bank services will stop",1,kyc_otp
+"Yono SBI: suspicious UPI mandate created. Cancel it now. OTP 192837, enter on: yono-secure.click/cancel Agent will call you for verification",1,kyc_otp
+Your mobile number will be suspended as SIM KYC is pending. Verify OTP 564738: sim-kyc-update.icu/reverify Do it before 5 PM today,1,kyc_otp
+India Post Payments Bank: KYC re-verification needed. Enter OTP 728192 on ippb-kyc.top/redo or account will be restricted,1,kyc_otp
+"Dear Customer, your bank account has been SUSPENDED due to suspicious activity. Verify immediately at sbi-secure-verify.xyz/unsuspend to avoid permanent block",1,account_blocked
+ALERT: Your SBI credit card will be blocked in 2 hours due to unusual transactions. Deactivate block: sbicard-unblock.click/card Your CIBIL will be affected,1,account_blocked
+"Your bank KYC mismatch found. Account will be blocked today 6 PM. Update here: hdfc-unblock.xyz/kycupdate Never share OTP, but do share account number to confirm",1,account_blocked
+Axis Bank: Your account has been frozen by RBI order for money laundering check. Unfreeze within 12 hrs: axis-unfreeze.top/rbi Support 1800-419xxxx,1,account_blocked
+Your ATM card is blocked due to 3 failed PIN attempts. Unblock: sbi-atm-unblock.icu/unblock Enter card number and OTP 392817 sent to you,1,account_blocked
+"INFORM: Your account is marked as inactive. Rs.15,000 will be transferred to government fund unless you reactivate: bob-reactivate.click/activate Verify with KYC docs",1,account_blocked
+Your net banking is disabled due to security reasons. Reactivate within 4 hrs or account will be closed: pnb-netbanking.xyz/reactivate Enter OTP sent now,1,account_blocked
+Canara Bank: unauthorized login blocked your account. Confirm activity: canara-verify.click/confirm Share OTP 473829 with our security desk to restore access,1,account_blocked
+"Your credit card Rs.48,900 due is overdue 90 days. CIBIL score dropping. Pay minimum via: credit-card-settle.top/paynow Enter OTP to authorise autopay",1,account_blocked
+"Bank account freezing notice: Your account is under cyber fraud investigation. Deposit Rs.5,000 bond in this UPI account to unlock: bond-unlock.xyz/pay",1,account_blocked
+"Your DBT-linked account failed Aadhaar auth. Benefits stopped. Revalidate: dbt-aadhaar-verify.icu/revalidate Agent will guide you, keep OTP ready",1,account_blocked
+PMJDY account holder: Your account will be deactivated as KYC expired. Activate: pmjdy-kyc.click/activate Enter OTP 827364 on the page,1,account_blocked
+Union Bank: your account has unusual foreign login from Malaysia. Lock your account: union-lock.top/lockdown Confirm with OTP 364518 to secure funds,1,account_blocked
+"Your UPI transactions are restricted due to suspicious activity. Lift restriction: upi-restrict.xyz/lift Provide PAN, Aadhaar and OTP 291837",1,account_blocked
+"INDIAN BANK alert: ATM withdrawal of Rs.10,000 from unknown ATM. Block card: indianbank-block.click/block Confirm with OTP 918273 if not you",1,account_blocked
+"Congratulations! You are selected for Data Entry Operator at Amazon India. Salary Rs.25,000/month, work from home. Registration fee Rs.999: amazon-jobs.top/register Contact HR on WhatsApp 98xxxxxx21",1,fake_job
+"Hiring: Part-time work, 2 hrs daily, earn Rs.3,000/day typing product reviews. No experience needed. Pay Rs.500 deposit for ID card: work-from-home.click/idcard",1,fake_job
+"TCS is hiring freshers! Guaranteed placement, no interview. Pay processing fee Rs.2,500: tcs-careers.xyz/apply Your joining letter will be emailed after payment",1,fake_job
+"Dear candidate, your resume selected for Reliance Jio opening. Send your Aadhaar, PAN and Rs.1,500 training fee to confirm seat: jio-job.icu/confirm",1,fake_job
+"Earn Rs.500 per like on Instagram! Part-time job, daily payout via UPI. Deposit Rs.300 for account activation: insta-earn.xyz/activate Only 10 slots left",1,fake_job
+"Wipro job offer: Package Rs.6.5 LPA. Freshers welcome. Pay Rs.3,000 for document verification: wipro-hiring.click/verify HR WhatsApp 97xxxxxx08",1,fake_job
+"Government job alert! Railway Group D openings, no exam. Registration fee Rs.499: irctc-jobs.top/apply Last date today. Agent will call for interview",1,fake_job
+"You are shortlisted for Flipkart warehouse supervisor. Send OTP received on your phone to confirm joining: flipkart-join.icu/otp-share Pay Rs.1,200 uniform charge",1,fake_job
+"Work from home - Copy paste job. Rs.15 per word, minimum 2000 words daily. Registration Rs.750: copyjob.click/register Payment guaranteed daily by 7 PM",1,fake_job
+"HDFC Bank hiring for Relationship Manager, salary Rs.45,000. Freshers ok. Pay Rs.2,000 for training kit: hdfc-jobs.xyz/kit Send scanned Aadhaar to HR",1,fake_job
+"Part-time data typing job, Rs.20,000/month guaranteed. Small registration Rs.600: typing-jobs.click/apply Work 1 hour daily from mobile phone",1,fake_job
+"Selected for Infosys BPO night shift. Confirm with OTP 483920 and pay Rs.1,800 onboarding fee: infosys-bpo.top/onboard HR will share location",1,fake_job
+"Earn by liking YouTube videos: Rs.10 per like, Rs.500 daily guaranteed. Start: yt-likes.xyz/earn Recharge Rs.200 to unlock first task",1,fake_job
+"Banking job, RBI grade, no exam. Pay Rs.3,500 exam form fee: rbi-recruitment.icu/form Agent will help you cheat in interview, keep phone ready",1,fake_job
+"Your profile matches Zomato delivery partner role. Pay Rs.999 for bike insurance claim to join: zomato-partner.click/insurance Immediate joining bonus Rs.2,000",1,fake_job
+"CONGRATULATIONS!! Your mobile number has won Rs.25,00,000 in KBC lucky draw. Claim prize: kbc-lottery.xyz/claim Send your bank details and processing fee Rs.5,000",1,lottery
+"You have won Rs.10 lakh in IPL lucky draw by Jio. To claim, pay GST Rs.18,000 via UPI: jio-claim.top/gst Your prize expires in 24 hours",1,lottery
+"Lucky winner! Your number selected in Amazon festival draw. Win iPhone 16 Pro. Pay delivery charge Rs.1,499: amazon-prize.icu/deliver Share OTP to confirm address",1,lottery
+"PM Kisan Samman Nidhi: Rs.6,000 credited to your account. To receive, verify bank: pmkisan-verify.xyz/bank Pay Rs.250 verification charge, get Rs.6,000 instantly",1,lottery
+"Dear customer, you are pre-approved for personal loan of Rs.8,00,000 at 2% interest, no CIBIL check. Pay Rs.3,000 processing: loan-approve.click/fee Send Aadhaar and OTP",1,loan_offer
+"Instant loan Rs.50,000 in 10 minutes, only Aadhaar needed. Processing fee Rs.999: instant-loan.top/apply Do not tell anyone, offer for you only",1,loan_offer
+"LIC policy maturity alert! Your policy matured, Rs.2,20,000 payable. Pay Rs.4,500 stamp duty: lic-maturity.xyz/stamp Failing, amount returns to government",1,lottery
+"Big Diwali Dhamaka! You won Sony TV in Meghalaya lottery. Pay Rs.2,200 shipping: meghalaya-lottery.click/ship Show this message at pickup, secret code WIN9981",1,lottery
+"Your Paytm wallet is eligible for cashback Rs.15,000. Claim: paytm-cashback.icu/claim Verify UPI and pay Rs.199 activation, cashback in 5 minutes",1,lottery
+"Winners list announced! Your mobile ends with 8900, won Rs.7 lakh in WhatsApp lottery. Claim: wa-lottery.xyz/win Send your PAN card photo for KYC of prize",1,lottery
+"State Bank credit card annual fee reversal: Rs.12,000 cashback offer. Pay Rs.599 joining: sbi-cashback.top/join Offer valid for 30 minutes only",1,lottery
+"You are shortlisted for Rajiv Gandhi scholarship Rs.50,000. Pay Rs.1,500 account opening: scholarship-claim.icu/apply Send bank passbook photo",1,lottery
+Credit card LTF offer for selected 100 customers! Annual fee Rs.0. Pay Rs.700 courier for card: ltf-card.click/courier Share OTP to complete e-KYC,1,lottery
+"Mutual Fund double your money in 90 days, guaranteed. Invest minimum Rs.5,000: mf-double.xyz/invest Register with PAN and send screenshot of payment",1,loan_offer
+"Your Paytm First Games account won Rs.2,00,000 jackpot. Pay Rs.3,500 TDS to claim: pfg-win.top/tds Winnings expire at midnight",1,lottery
+This is CBI Officer R.K. Sharma. Your parcel contains drugs and is seized. You are under DIGITAL ARREST for money laundering. Share all OTPs and bank details to prove innocence or come to Delhi office now,1,digital_arrest
+"Your Aadhaar used in cybercrime in Noida. NIA has issued arrest warrant. Pay Rs.1,50,000 fine to close case: nia-settle.xyz/fine Do not tell family or lawyers, digital arrest in progress",1,digital_arrest
+Police cyber cell here. Your bank account received Rs.9 lakh of fraud money. You are under digital arrest for 48 hours. Transfer balance to safe account: safe-lock.top/transfer Share screen on video call,1,digital_arrest
+"This is Mumbai Crime Branch. A parcel with drugs and passports in your name is intercepted. Case filed under NDPS Act. Pay Rs.2,00,000 bail amount via UPI or face arrest. Stay on video call, do not disconnect",1,digital_arrest
+"Customs department: A parcel with fake currency in your name from Thailand is seized. You are named in FIR 229/2025. Pay Rs.75,000 clearance: customs-fine.click/pay Remain on Google Meet for interrogation",1,digital_arrest
+"ED notice: Your Aadhaar linked to hawala transactions of Rs.50 lakh. Account freeze order issued. Pay Rs.3,00,000 to drop charges: ed-settle.icu/pay Join video call with senior officer, do not consult anyone",1,digital_arrest
+"Hello, this is IPS officer from Cyberabad. Your SIM used in OTP fraud. You are under digital arrest with Supreme Court order. Share bank OTPs for verification or surrender at police station within 2 hours",1,digital_arrest
+"Your passport is used for illegal immigration to Dubai. CBI digital arrest initiated. Rs.4,00,000 penalty to clear: cbi-penalty.xyz/clear Keep camera on, officer is watching you",1,digital_arrest
+"Income Tax department: undisclosed income of Rs.25 lakh detected in your PAN. Arrest warrant ready. Pay Rs.1,25,000 fine: itax-fine.top/pay Do not call anyone, line is recorded",1,digital_arrest
+This is RBI fraud investigation cell. Your account has money of cheated senior citizens. You are under digital arrest. Move all funds to RBI secure account: rbi-secure.icu/move for verification within 30 minutes,1,digital_arrest
+"NCB here. Your address used for drug parcel from Delhi. Under NDPS digital arrest. Pay Rs.90,000 case closure: ncb-close.click/pay Stay on video call, your webcam is monitored",1,digital_arrest
+"Cyber police: An illegal SIM and bank account is opened with your Aadhaar. You are under arrest warrant. Pay Rs.60,000 compensation to complainant: cyber-fine.xyz/comp Do not disconnect call",1,digital_arrest
+"Supreme Court digital arrest order: Your number contacted terror suspect. You cannot step out or inform anyone. Deposit Rs.5,00,000 in court account: sc-bail.top/court for interim bail",1,digital_arrest
+"Hello madam, this is Delhi Police. Passport seizure warrant in your name for human trafficking case. Digital arrest 24 hrs. Pay Rs.1,75,000 or your family will be interrogated: police-settle.icu/pay",1,digital_arrest
+"This is CBI cybercrime unit. OTP fraud of Rs.12 lakh traced to your KYC. Arrest order active. Share all card details and pay Rs.80,000 fine: cbi-fine.click/fine Video monitoring on, do not end call",1,digital_arrest
+"Your parcel from Mumbai is held by customs for illegal contents. Pay Rs.5,500 fine to release: customs-hold.xyz/release Or parcel will be returned and case filed",1,courier
+Courier alert! Your order is undelivered as address incomplete. Pay Rs.19 re-delivery fee immediately: dtDC-redeliver.click/pay19 Your parcel will be destroyed in 6 hours,1,courier
+"India Post: Your registered parcel contains contraband. Pay Rs.3,500 clearance or police will visit: indiapost-clear.top/clear Secret tracking code: IN9283741",1,courier
+"Your Amazon parcel is stuck at customs clearance. GST Rs.2,100 pending. Pay: amzn-customs.xyz/gst If not paid by today, parcel cancelled and account blocked",1,courier
+"Blue Dart: Your parcel with foreign currency is intercepted. Pay Rs.4,800 penalty: bluedart-fine.icu/penalty Reference: BD7728193. Do not share tracking with anyone",1,courier
+"FedEx: Important shipment on hold. Your ID proof needed and Rs.6,000 customs duty: fedex-hold.click/duty Reply with Aadhaar photo immediately",1,courier
+Parcel delivery failed as Rs.142 COD unpaid. Reattempt after payment: delhivery-cod.xyz/pay142 Parcel will be returned to sender in 3 hours,1,courier
+"Your international parcel from London is scanned with drugs. Pay Rs.9,900 legal charges to avoid FIR: intl-parcel-fine.top/legal Track: LP8837264IN",1,courier
+"DTDC parcel intercepted with fake notes. Customs case filed. Pay Rs.15,000 to release: dtdc-customs.icu/release This is final notice before arrest",1,courier
+Your Flipkart order is blocked at warehouse for address verification. SMS your OTP 384756 to confirm delivery: flipkart-otp.click/verify Delivery agent needs it urgently,1,courier
+"eCommerce parcel contains explosive material as per scanner. Pay Rs.7,500 disposal fee: parcel-disposal.xyz/fee Or visit customs office with Rs.20,000 bail",1,courier
+Your SIM card courier is undelivered due to incomplete KYC. Share OTP and pay Rs.99 reissue: sim-courier-top.icu/reissue Do it before 4 PM or SIM deactivated,1,courier
+"DHL: Shipment from USA needs your PAN for customs. Pay Rs.3,200: dhl-pan.click/customs Send PAN card photo and OTP 291837 on this chat",1,courier
+Your ATM card courier is returned. Pay Rs.149 for re-dispatch: atm-card-redeliver.top/pay Enter OTP received for address confirmation,1,courier
+"Customs clearance pending for your eBay parcel. Pay Rs.2,750 duty via UPI: ebay-duty.icu/clear Parcels not cleared in 24 hrs are auctioned",1,courier
+"I am hacker. I recorded you in private video. Pay Rs.10,000 in Bitcoin within 2 hours or video goes to all your contacts. Wallet: bc1qexample",1,sextortion
+"Traffic police e-challan: Your vehicle caught jumping signal. Pay Rs.6,000 fine online: traffic-fine.xyz/challan Or license cancelled today",1,fake_fine
+"Your vehicle number caught in FASTag violation. Rs.10,000 penalty pending: fastag-violation.click/pay Pay before midnight to avoid RTO block",1,fake_fine
+"Scan this QR to receive Rs.500 cashback from Jio: (QR attached). Enter amount Rs.1 to verify UPI, money will be doubled back instantly",1,qr_scam
+"Task scam alert reversed: Complete 3 tasks, earn Rs.1,200. First recharge Rs.500 to unlock high-paying tasks: task-earn.top/recharge Money doubles on completion",1,task_scam
+WhatsApp TV show audition: Send private photos to confirm casting. Role in Netflix series guaranteed: netflix-casting.icu/cast Keep this secret from agency,1,fake_job
+"Your car insurance claim Rs.45,000 approved. Pay Rs.999 policy transfer: motor-claim.xyz/transfer Send RC book photo and OTP to process",1,fake_fine
+"Hello user, I am from Microsoft support. Your PC has virus and bank data stolen. Buy our Rs.4,999 protection: ms-support.click/protect Allow teamviewer access now",1,tech_scam
+"Your Netflix account will be closed as payment failed. Update card: netflix-update.top/card Do not tell family, this is confidential security update",1,kyc_otp
+"Solar panel subsidy from PM Surya Ghar: Rs.78,000 subsidy. Pay Rs.2,500 registration: surya-ghar-subsidy.xyz/reg Agent will visit for fingerprint, keep Aadhaar ready",1,lottery
+"Rs.2,500.00 debited from a/c XX4521 towards UPI to merchant@okhdfcbank on 14-10. Bal: Rs.18,203.55. Not you? Call 18002095566",0,bank_alert
+"Rs.15,000 credited to your a/c XX7832 from EMP SALARY on 30-09. Avl Bal: Rs.62,410.00 -SBI",0,bank_alert
+OTP 493821 for UPI txn of Rs.899 to swiggy@ybl. Do not share with anyone. Valid 10 mins. -HDFC Bank,0,otp
+"Your a/c XX1190 is credited with Rs.3,200 by IMPS/UTR52849102. Avl Bal Rs.9,847.20 -ICICI Bank",0,bank_alert
+"INB: INR 12,500.00 debited from A/c XX3345 on 12-10 to Paytm@okaxis. If not done, report: 1800111109",0,bank_alert
+Use OTP 728194 to login to YONO SBI. Never share OTP with anyone including bank staff. Valid for 5 minutes,0,otp
+"Rs.450.00 spent on SBI Credit Card XX8890 at FLIPKART on 11-10. Avl limit Rs.84,550. Dispute? Call 1800111109",0,bank_alert
+"Your a/c XX5567 has been credited Rs.8,000 via UPI from rahul.sharma@okicici. Bal: Rs.23,110.40 -Kotak",0,bank_alert
+"A/c XX2210: Rs.1,250 debit at AMAZON PAY balance load. Avl bal Rs.4,820.00. Call 18002586161 if not you",0,bank_alert
+Alert: Login attempt to net banking blocked. OTP 391827 if it was you. Not you? Secure account: 18004253800 -Axis,0,otp
+"Rs.6,999 debited from XX9012 for EMI of HDFC Home Loan on 05-10. Next EMI due 05-11 -HDFC Bank",0,bank_alert
+"UPI payment success: Rs.340 to dominos@paytm. Txn ID 3184729183. Avl Bal Rs.5,210.75 -Paytm Payments Bank",0,bank_alert
+"FD of Rs.2,00,000 matured on 15-10. Proceeds credited to a/c XX4410. Avl bal Rs.2,14,330 -BoB",0,bank_alert
+"Your SBI Card payment of Rs.3,450 received on 08-10. Avl credit limit Rs.76,550. Statement due 22-10",0,bank_alert
+"OTP 582910 for creating UPI PIN on Card XX7712. Do not share. If not requested, call 1800112211 -PNB",0,otp
+"Rs.18,000 credited to a/c XX3398 by NEFT from RAHUL M for RENT. Bal Rs.41,275.80 -Union Bank of India",0,bank_alert
+"Cash withdrawal Rs.5,000 from a/c XX6721 at ATM ANDHERI W on 13-10 18:42. Avl bal Rs.12,430 -Canara",0,bank_alert
+"Interest credit Rs.1,204.55 on Savings a/c XX1102 for Sep 2025. Bal Rs.80,300.10 -Indian Bank",0,bank_alert
+"Debit of Rs.999 for annual maintenance of XX8823 credit card on 01-10. Avl limit Rs.90,001 -Axis Bank",0,bank_alert
+"Your a/c XX4455 is debited Rs.2,100 for SIP to NIPPON INDIA MF. Bal Rs.15,880 -HDFC Bank",0,bank_alert
+492810 is your OTP for login. Valid for 5 minutes. Do not share with anyone. -WhatsApp,0,otp
+Your OTP for Paytm is 381726. Paytm never asks for OTP on call. Valid 10 mins,0,otp
+Amazon: 728194 is your OTP for login. Do not share it with anyone.,0,otp
+"Your Swiggy login OTP is 918273, valid for 5 minutes. Swiggy will never call you for this OTP",0,otp
+Use 482910 as MFA code for Gmail. Don't share this code. -Google,0,otp
+Zerodha OTP: 273819. Never share your OTP or funds can be stolen from your account. Valid 10 min,0,otp
+123456 is your mobile verification code for IRCTC. Do not share with anyone,0,otp
+OTP 847291 for UPI mandate of Rs.299 (Jio recharge). Valid till 18:45. -PhonePe,0,otp
+"Your Airtel Thanks app OTP is 392817, valid 5 mins. Airtel will never call and ask for OTP",0,otp
+"DigiLocker: OTP 564738 to login. Do not share. If not requested, secure your account",0,otp
+"Your OTP for Apollo 24|7 appointment booking is 718263, valid 10 minutes",0,otp
+OTP 384756 for KYC update on NSDL portal. Valid 15 mins. Never share with agents,0,otp
+Your IRCTC booking OTP is 928173 for tatkal ticket. Do not share,0,otp
+MFA code 481927 for your Microsoft account. Don't share this code with anyone,0,otp
+Your Uber login code is 573829. Never share this code,0,otp
+Your Amazon package with Order #402-8837264-1192838 will arrive today by 8 PM. Track: amzn.in/trk/A1B2,0,delivery
+Shipment 33829102847 out for delivery. Will be delivered by 6 PM today. -Blue Dart,0,delivery
+Your Swiggy order is being prepared. Arriving in 28 mins. Order ID SW928173645,0,delivery
+Flipkart: Your package (EK3847291028) has been delivered. Delivered to: security guard. Rate your experience,0,delivery
+"DTDC tracking: Shipment DT9281736451 is in transit, expected delivery 16 Oct. Helpline 1800-111-800",0,delivery
+Your Blinkit order is packed and will arrive in 9 minutes. Enjoy!,0,delivery
+Indiapost: Registered article ED9281746IN out for delivery. Pls keep Rs.450 ready as COD.,0,delivery
+Your Zomato order #ZX8291037 has been picked up by rider. Arriving in 17 mins,0,delivery
+Your Myntra order EKNX8291027 shipped via Delhivery. Track: mdlvr.in/t/8291027,0,delivery
+Licious: Your order will be delivered between 7-8 AM tomorrow. Order #LC92817,0,delivery
+Your Dunzo delivery is on the way. Rider Vinay will call you at pickup. ETA 12 mins,0,delivery
+"Tata 1mg: Your order TM829103 ships today, delivery by 15 Oct. Track in app",0,delivery
+"Your Airtel Xstream Fiber installation is scheduled for tomorrow 11 AM. Tech: Ramesh, 98xxxxxx32",0,delivery
+"IRCTC: PNR 482910376, train 12951 MMCT-NDLS, coach B4 seat 32, boarding 07:10 Mumbai Central",0,travel
+"IndiGo: Your flight 6E 213 on 22 Oct BOM->BLR, boarding 14:40. Check-in opens 24 hrs before",0,travel
+"Haan bhai, kal shaam ko movie chalna hai? BookMyShow se ticket le leta hoon, 7 baje show hai",0,casual
+"Papa, reached hostel safely. Money not needed this month, last time wala bacha hai",0,casual
+"Di, tera birthday gift aa gaya hai ghar. Kal tak deliver ho jayega, surprise hai!",0,casual
+"Bro, aaj dinner plan? Office ke paas naya Chinese khula hai, chalega?",0,casual
+"Amma, naan safe-a reach aachen. Aunty veetla irukanga, tension padeenga",0,casual
+"Yaar assignment submit kar diya? Mujhe ek file chahiye thi, WhatsApp pe bhej de",0,casual
+"Shadi next month hai, tu zaroor aana. Tickets book kar le, Jaipur ka plan hai",0,casual
+"Bhaiya, mummy ka phone recharge kar diya? Main kar raha hoon kal tak",0,casual
+"Team lunch tomorrow at 1 PM, Sangeetha near office. Coming?",0,casual
+"Kal morning 6 baje nikal rahe hain Ooty ke liye. Tu ready rehna, ghar se pick karunga",0,casual
+"Chechi, recipe bhej do na that fish curry wali. Guests aa rahe hain weekend ko",0,casual
+"Dost, notes bhej diya Telegram pe. Exam se pehle ek bar dekh lena",0,casual
+"Beta, dawaiyan khatam ho gayi hain. Pharmacy se mangwa dena, prescription bhej di hai",0,casual
+"Aaj office se late aaunga, dinner mat rakhna. Weekend pe lunch bahar chalte hain",0,casual
+"Bhai, bike ka insurance renew ho gaya. Policy PDF WhatsApp pe bhej di hai, check kar lena",0,casual
+"Hello, just confirming tomorrow's meeting at 11 AM in conference room 2. Agenda mailed",0,formal
+Reminder: Parent-teacher meeting on Saturday 10 AM. Please confirm attendance,0,formal
+"Your electricity bill of Rs.1,842 for Sep is due on 20 Oct. Pay via discom app to avoid late fee",0,utility
+Water tanker will come tomorrow 7 AM instead of 6 AM due to maintenance work,0,utility
+"Society maintenance of Rs.2,500 due for October. Pay by 10 Oct to avoid 5% late charge",0,utility
+Your broadband will be under maintenance on 19 Oct 2-4 AM. Services may be interrupted,0,utility
+"LPG cylinder delivered, booking #LP829173. Gas check kar lena, seal intact hona chahiye",0,utility
+Your passport application PP02837291 has moved to police verification stage. Track online,0,formal
+"Aapka PAN card dispatch ho gaya hai. Delivery 5-7 working days me, tracking: indiapost",0,formal
+Your electricity meter reading will be done on 18 Oct. Please allow meter man between 10 AM-4 PM,0,utility
+Koramangala block 5 water supply will be interrupted 10 AM-2 PM tomorrow for pipeline work,0,utility
+"Your BESCOM bill Rs.1,245 for September is generated. Pay before 20 Oct via any app",0,utility
+Class 10 result will be declared on 20 May at 11 AM on karresults.nic.in. All the best!,0,formal
+Office Deepavali celebration on Friday 4 PM in cafeteria. Come in traditional wear!,0,formal
+Reminder: vehicle insurance for MH12AB1234 expires on 28 Oct. Renew to avoid fine,0,formal
+Your Airtel bill of Rs.899 for October generated. Due date 21 Oct. Airtel Thanks app se pay karein,0,utility
+Bank passbook update ho gaya hai. Collect from branch any working day 10-4,0,formal
+"Pizza order place kar diya hai, 30 min me aa jayega. Tu plates nikal le",0,casual
+"Gym tomorrow 6 AM sharp, don't skip! Protein shake bhi khatam ho gaya hai, le aana",0,casual
+"Trip to Goa booked! Hotel confirmation mil gaya, flight 15 Nov 6:40 AM. Pack kar le",0,casual
+Your Aadhaar update request is processed. Download updated e-Aadhaar from uidai website,0,formal
+Ration shop pe dal aur chawal aa gaye hain. Kal se pehle card leke aana,0,casual

@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Data & artifacts (regenerate with src/train.py)
+data/processed/
+models/*.joblib
+models/transformer/
+reports/figures/*.png
+reports/*.csv
+!reports/figures/.gitkeep
+
+# Logs / OS
+*.log
+.DS_Store
+Thumbs.db
+.streamlit/secrets.toml
